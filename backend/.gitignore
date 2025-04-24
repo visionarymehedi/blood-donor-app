@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.log
